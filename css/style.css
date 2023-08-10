@@ -623,7 +623,7 @@ header .intro-text {
 
 /*내 사진 프로필 */
 .img-responsive {
-	float: center;
+	float: left;
 	width: 50%;
 	height: 50%;
 }
