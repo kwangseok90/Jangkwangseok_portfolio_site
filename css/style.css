@@ -620,11 +620,6 @@ header .intro-text {
 	width: 100%; height: 20%;
 }
 
-/*내 사진이 묶어서 있는 div 컨데이너 */
-.My_Pics{
-	display: flex;
-	justify-content: left;
-}
 
 /*내 사진 프로필 */
 .img-responsive {
