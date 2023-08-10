@@ -623,7 +623,7 @@ header .intro-text {
 
 /*내 사진 프로필 */
 .img-responsive {
-	float: left;
+	margin-left: 100px;
 	width: 50%;
 	height: 50%;
 }
@@ -631,7 +631,7 @@ header .intro-text {
 
 @media (max-width: 1024px) {
 #about img {
-	float: left;
+	
 	margin-bottom: 20px;
 }
 }
