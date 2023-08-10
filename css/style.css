@@ -624,7 +624,8 @@ header .intro-text {
 /*내 사진 프로필 */
 .img-responsive {
 	width: 40%;
-	height: 30%;
+	margin: left;
+	display: block;
 }
 
 
